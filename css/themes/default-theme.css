@@ -1,0 +1,147 @@
+
+a {
+  color: #1cee1c;
+}
+
+.navbar-fixed nav {
+  background-color: #4866b8;
+}
+
+
+.side-nav li:hover{
+  background-color: #55b9f3;  
+}
+.btn ,.btn-large{
+  background-color: #ba68c8;
+}
+.btn:hover, .btn-large:hover {
+  background-color: #ba68c8;
+}
+.home-title span{
+  color: #a687fa;
+}
+.about-inner-right>h3{
+  color: #ba68c8;
+}
+.personal-information>h3{
+  color: #ba68c8;
+}
+.title{
+  color: #ba68c8;
+}
+
+.card-subtitle {
+  color: #ba68c8;
+}
+.portfolio-top{
+  background-color: #ba68c8;
+}
+.filter {
+  color: #ba68c8;
+}
+.filter:focus{
+  background-color: #ba68c8;
+}
+#portfolio-list .mix:hover > a::before {
+  background-color: #ba68c8;
+}
+.counter{
+  color: #ba68c8;
+}
+
+.pro-bar-container.color-wisteria {
+  border-color: #ba68c8;
+}
+
+.pro-bar.color-amethyst {
+  background-color: #ba68c8;
+}
+.call-to-about i{
+  color: #ba68c8;
+}
+
+.blog-post .card-action a{
+  color: #ba68c8;
+}
+
+.post-comment:hover{
+  color: #ba68c8 !important;
+}
+
+.readmore-btn:hover{
+  background-color: #ba68c8;
+}
+#experience{
+  background-color: #8fe0335b;
+}
+
+.card-title i {
+  color: #74e9e3;
+}
+.customNavigation i{
+  color: #ba68c8;
+}
+
+.testimonial-content h3 {
+  color: #ba68c8;
+}
+.footer-top{
+  background-color:#607ee2; 
+}
+
+.submit-btn{
+  color: #55e479;  
+}
+.submit-btn:hover,
+.submit-btn:focus{
+  background-color: #ba68c8;
+}
+.overlay-header{
+  background-color: #ba68c8;
+}
+.blog-content blockquote {
+  border-left: 5px solid #40e25b;
+}
+.share-area h4 i,
+.tag-area h4 i {
+  color: #6fe478;
+}
+.share-area a:hover,
+.share-area a:focus{
+  color: #ba68c8;
+}
+.author-comments {
+  background-color: #ba68c8 !important;
+}
+.reply-btn:hover{
+  background-color: #ba68c8; 
+}
+.pagination li.active{
+  background-color: #ba68c8;
+}
+.card .card-action a {
+  color: #ba68c8;  
+}
+.tagcloud a:hover,
+.tagcloud a:focus{
+  color: #fff;
+  background-color: #ba68c8;
+  border-color: #ba68c8;
+}
+.prev-post:hover,
+.prev-post:focus,
+.next-post:hover,
+.next-post:focus{
+  background-color: #4ff172;
+}
+.submit-btn{
+  color: #7c3fdd;  
+}
+.side-nav li:hover,
+.side-nav li.active {
+  background-color: #ba68c8; 
+}
+.progress .indeterminate {
+
+  background-color: #ba68c8;
+}

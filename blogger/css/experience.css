@@ -1,0 +1,64 @@
+body{
+    background-image: url(../img/low_contrast_linen_@2X.png);
+}
+.navbar{
+    background: transparent !important;
+    transition: 0.5s;
+}
+.navbar.scrolled {
+    background: rgb(105, 100, 100) !important;
+    transition: 0.5s;
+}
+
+hr{ 
+    border-color: red;
+    padding-left: 20%;
+}
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:#000;
+    background: rgb(5, 248, 106);
+}   
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(60, 247, 43, 0.8);
+  border-radius: 4000px;
+  border-bottom: 200px;
+ 
+}
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover,
+.navbar-light, .navbar-brand:focus
+.navbar-light, .navbar-brand:visited{
+color: rgba(253, 2, 2, 0.856);
+}
+
+.jumbotron{
+    
+        background-color: darkgray;
+        background-size: cover;
+        text-align: center;
+        color: wheat;
+        width: auto;
+        padding-bottom: 15%;
+        background: transparent;
+}
+#quotes {
+        text-align: center;
+        width: 90%;
+        padding-left: 10%;
+        font-size: 200%; 
+        font-family: 'Fredericka the Great', cursive;
+    }
+#teks{
+        font-family: 'Mansalva', cursive;
+        font-size: 200%;
+    
+    }
+    .container .content{
+        width: auto;
+        border-radius: 0%;
+        border: 50%;
+        
+        }
