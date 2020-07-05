@@ -3,8 +3,9 @@
 }
 body{
     background-image: url(../img/low_contrast_linen_@2X.png);
+    scroll-behavior: smooth;
 }
-* html,body{
+html{
     scroll-behavior: smooth;
 }
 
