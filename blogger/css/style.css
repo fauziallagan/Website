@@ -30,7 +30,7 @@ p {
 
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color:#000;
+    color:rgb(0, 0, 0);
     background: rgb(5, 248, 106);
 }   
 
@@ -174,7 +174,7 @@ span{
 }
 .contex img{
     width: 20%;
-    border-radius: 50%;
+    border-radius: 90%;
     margin-bottom: 2%;
     margin-left: 6%;
     padding-left: auto;
@@ -182,9 +182,11 @@ span{
 
 }
 .contex{
+    margin-top: 20%;
     text-align: center;
-    margin-right: 20%;
-    margin-left: 10%;
+    /* right: 100%; */
+    position: relative;
+
 }
 p{
     text-indent: 20px;
@@ -205,6 +207,21 @@ p{
     height: 20%;
     margin-bottom: 10%;
     padding-bottom: 10%;
+}
+.card{
+    background: transparent;
+}
+.card-header{
+    font-size: 60px;
+}
+.blockquote-footer{
+    background: transparent;
+}
+.blockquote{
+    font-variant-position: super;
+    font-style: oblique;
+    font-family: monospace;
+    font-size: 40px;
 }
 
 
